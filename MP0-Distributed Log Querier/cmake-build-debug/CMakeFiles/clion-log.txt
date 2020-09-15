@@ -1,0 +1,4 @@
+/usr/local/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed Log Querier"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed Log Querier/cmake-build-debug

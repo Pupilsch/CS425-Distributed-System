@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="MP0_Distributed_Log_Querier"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed Log Querier/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed\ Log\ Querier/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed\ Log\ Querier/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed\ Log\ Querier/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed\ Log\ Querier/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed Log Querier/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed\ Log\ Querier/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed\ Log\ Querier/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed\ Log\ Querier/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed\ Log\ Querier/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MP0_Distributed_Log_Querier">
+				<Option output="/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed Log Querier/cmake-build-debug/MP0_Distributed_Log_Querier" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed Log Querier/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed\ Log\ Querier/cmake-build-debug/Makefile&quot;  VERBOSE=1 MP0_Distributed_Log_Querier"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed\ Log\ Querier/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed\ Log\ Querier/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed\ Log\ Querier/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MP0_Distributed_Log_Querier/fast">
+				<Option output="/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed Log Querier/cmake-build-debug/MP0_Distributed_Log_Querier" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed Log Querier/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed\ Log\ Querier/cmake-build-debug/Makefile&quot;  VERBOSE=1 MP0_Distributed_Log_Querier/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed\ Log\ Querier/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed\ Log\ Querier/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed\ Log\ Querier/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed Log Querier/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed\ Log\ Querier/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed\ Log\ Querier/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed\ Log\ Querier/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed\ Log\ Querier/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed Log Querier/include/client.h">
+			<Option target="MP0_Distributed_Log_Querier"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed Log Querier/include/grep.h">
+			<Option target="MP0_Distributed_Log_Querier"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed Log Querier/include/server.h">
+			<Option target="MP0_Distributed_Log_Querier"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed Log Querier/main.cpp">
+			<Option target="MP0_Distributed_Log_Querier"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed Log Querier/src/grep.cpp">
+			<Option target="MP0_Distributed_Log_Querier"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed Log Querier/src/run_client.cpp">
+			<Option target="MP0_Distributed_Log_Querier"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed Log Querier/src/run_server.cpp">
+			<Option target="MP0_Distributed_Log_Querier"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed Log Querier/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

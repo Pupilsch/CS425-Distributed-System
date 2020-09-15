@@ -1,0 +1,3 @@
+/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed Log Querier/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed Log Querier/cmake-build-debug/CMakeFiles/MP0_Distributed_Log_Querier.dir
+/mnt/c/Users/Kitsch/Desktop/CS425/MP/MP0-Distributed Log Querier/cmake-build-debug/CMakeFiles/edit_cache.dir

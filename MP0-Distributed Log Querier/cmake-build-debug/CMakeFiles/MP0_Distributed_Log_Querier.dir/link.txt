@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/MP0_Distributed_Log_Querier.dir/main.cpp.o CMakeFiles/MP0_Distributed_Log_Querier.dir/src/grep.cpp.o CMakeFiles/MP0_Distributed_Log_Querier.dir/src/run_client.cpp.o CMakeFiles/MP0_Distributed_Log_Querier.dir/src/run_server.cpp.o -o MP0_Distributed_Log_Querier 
