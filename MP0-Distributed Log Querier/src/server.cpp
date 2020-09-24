@@ -33,7 +33,7 @@ Server::Server(int port_num) {
 
 int Server::run() {
     int server_fd, sock;
-    sockaddr_in address{};
+    struct sockaddr_in address{};
     int yes = 1;
     int addrlen = sizeof(address);
 
@@ -72,6 +72,7 @@ int Server::run() {
         auto t = std::thread(&Server::handle_connection, this, sock);
         t.detach();
     }
+    return 0;
 }
 
 int Server::handle_connection(int sock) {

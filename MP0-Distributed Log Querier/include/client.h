@@ -41,9 +41,7 @@ private:
     std::queue<std::string> queries;
     std::mutex queries_lock;
 
-    std::unordered_map<int, std::string> ip_address{
-
-    };
+    std::unordered_map<int, std::string> ip_address;
 
     /// The bool vector that stores the status (alive or died) for vm servers.
     std::vector<bool> ip_status;
