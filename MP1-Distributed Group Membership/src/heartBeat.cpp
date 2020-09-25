@@ -70,7 +70,7 @@ int heartBeat_all::run_heartBeat_all() {
         std::cerr<< "Listen fail" <<std::endl;
         return -1;
     }
-    if(send_heartBeat_all() < 0){
+    if(send_heartBeat_all() < 0){ /// To modify: sleep a certain ms to send_heartBeat_all
         std::cerr<< "Send HeartBeat fail" <<std::endl;
         return -1;
     }
