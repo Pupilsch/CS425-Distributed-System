@@ -5,7 +5,7 @@
 #include <iostream>
 #include "include/heartbeat.h"
 
-int main(int argc, char** argv) {
+int main(int argc, char* argv[]) {
     heartBeat_all hall(SEND_PORT, LISTEN_PORT);
     hall.run_heartBeat_all();
 
